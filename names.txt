@@ -1,1 +1,5 @@
-Stuent names:- Alice created an experiment branch.
+Student names:
+- Bob
+
+Notes:
+- Alice created an experiment branch.
