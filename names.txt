@@ -1,3 +1,8 @@
+Student names:
+- Bob
+
+Notes:
+- Alice created an experiment branch.
 Stuent names:Bob
 Notes:
 - Collaborator A tested GitHub Flow.
